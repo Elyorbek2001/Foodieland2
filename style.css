@@ -1,0 +1,196 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container .opshi .home1 nav ul li {
+  list-style: none;
+}
+.container .opshi .ijtimoiy {
+  padding: 0px 0px 0px 160px;
+}
+.container main .container {
+  width: 100%;
+  height: 100%;
+}
+.container main .container .chap {
+  width: 70%;
+}
+.container main .container .chap .profil {
+  padding: 100px 0px 0px 0px;
+  gap: 100px;
+}
+.container main .container .chap .profil .profill {
+  padding: 20px 0px;
+}
+.container main .container .chap .profil .profill .jon .rasm {
+  padding: 0px 10px 0px 0px;
+}
+.container main .container .chap .profil .soat .img {
+  padding: 10px 10px 0px 0px;
+}
+.container main .container .chap .profil .soat .imgs {
+  padding: 0px 10px 0px 0px;
+}
+.container main .container .ong {
+  width: 30%;
+}
+.container main .container .ong .pri {
+  padding: 10px 0px 0px 0px;
+}
+.container main .container .ong .pri .print {
+  padding: 10px;
+  background-color: #E7FAFE;
+  border-radius: 50%;
+}
+.container main .container .ong .share {
+  padding: 10px 0px 0px 0px;
+  bottom: 200px;
+}
+.container main .container .ong .share .print {
+  padding: 10px;
+  background-color: #E7FAFE;
+  border-radius: 50%;
+}
+.container main .container .ong .table {
+  margin-top: 150px;
+  padding: 20px;
+  background-color: #E7FAFE;
+  height: 600px;
+  border-radius: 20px;
+}
+.container main .container .ong .table h4 {
+  padding: 10px 0px;
+}
+.container main .container .ong .table .jadval {
+  padding: 10px 0px;
+}
+.container main .container .ong .table .jadval p {
+  color: rgba(0, 0, 0, 0.5882352941);
+}
+.container main .container .ong .table .p {
+  text-align: center;
+  padding: 130px 0px 0px 0px;
+}
+.container main .container .ppp {
+  padding: 50px 0px;
+}
+.container main .container .aside .chap1 {
+  width: 70%;
+}
+.container main .container .aside .chap1 h5 {
+  padding: 60px 10px 0px 0px;
+}
+.container main .container .aside .chap1 .ing p {
+  color: rgba(0, 0, 0, 0.242);
+}
+.container main .container .aside .chap1 .bu {
+  padding: 15px 0px;
+}
+.container main .container .aside .chap1 .bu button {
+  padding: 8px;
+  border-radius: 100%;
+}
+.container main .container .aside .chap1 .bu p {
+  padding: 5px 0px 0px 0px;
+}
+.container main .container .aside .chap1 .dic {
+  padding: 60px 0px 0px 0px;
+}
+.container main .container .aside .chap1 .dic h5 {
+  padding: 20px 20px;
+}
+.container main .container .aside .chap1 .dic p {
+  padding: 20px 30px 20px 20px;
+}
+.container main .container .aside .chap1 .dic .oshpaz {
+  padding: 20px;
+}
+.container main .container .aside .ong1 {
+  width: 30%;
+}
+.container main .container .aside .ong1 .kattasi {
+  padding: 20px 0px;
+}
+.container main .container .aside .ong1 .kattasi .chicken .img1 img {
+  border-radius: 20px;
+}
+.container main .container .aside .ong1 .kattasi .chicken .text {
+  padding: 10px 0px 0px 10px;
+}
+.container main .container .aside .ong1 .imgg {
+  bottom: 350px;
+  left: 20px;
+}
+.container main .container .aside .ong1 .text3 {
+  bottom: 750px;
+  text-align: center;
+  padding: 0px 50px;
+  color: white;
+}
+.container main .container .container4 {
+  background-color: #E7FAFE;
+  border-radius: 20px;
+}
+.container main .container .container4 .text-oxiri {
+  padding: 100px 0px 0px 0px;
+}
+.container main .container .container4 .text-oxiri p {
+  padding: 20px 0px;
+}
+.container main .container .container4 .uchta .bbbbb {
+  width: 33.3%;
+}
+.container main .container .container4 .uchta .oooo {
+  width: 66.6%;
+}
+.container main .container .container4 .uchta .tugma4 {
+  width: 50%;
+}
+.container main .container .container4 .uchta .tugma4 .your {
+  width: 1000px;
+  background-color: #FFFFFF;
+  padding: 20px 10px 20px 20px;
+  border-radius: 20px;
+  border: none;
+  position: relative;
+  top: 200px;
+}
+.container main .container .container4 .uchta .tugma4 .your p {
+  position: relative;
+  top: 22px;
+  right: 50px;
+}
+.container main .container .container4 .uchta .tugma4 .your .sub {
+  padding: 20px 40px;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  border: none;
+}
+.container main .container .container4 .uchta .rasm2 {
+  left: 145px;
+  top: 135px;
+  width: 50%;
+}
+.container main .container .h22 {
+  padding: 100px 0px 30px 0px;
+  text-align: center;
+}
+.container main .container .fast-fut1 .mixed .mix {
+  padding: 10px 0px;
+}
+.container main .container .fast-fut1 .mixed .yon {
+  padding: 30px 0px 0px 0px;
+}
+.container main .container .container5 {
+  padding: 100px 0px;
+}
+.container main .container .container5 .navv nav ul {
+  display: flex;
+  gap: 30px;
+}
+.container main .container .container5 .navv nav ul li {
+  list-style: none;
+}/*# sourceMappingURL=style.css.map */
